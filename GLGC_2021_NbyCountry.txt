@@ -1,0 +1,36 @@
+"Country"	"Nall"
+"Australia"	17215
+"Austria"	1156
+"Brazil"	1688
+"Burkina Faso"	1872
+"Canada"	6190
+"China"	41782
+"Croatia"	3680
+"Denmark"	26255
+"Finland"	56560
+"France"	73
+"Germany"	38985
+"Ghana"	3655
+"Greece"	5126
+"Iceland"	140986
+"India"	4247
+"Ireland"	1904
+"Italy"	21076
+"Japan"	175316
+"Kenya"	2452
+"Korea"	130287
+"Kuwait"	1000
+"Mexico"	7031
+"Netherlands"	46100
+"Nigeria"	1783
+"Norway"	70174
+"Pakistan"	16110
+"Philippines"	10
+"Singapore"	17444
+"South Africa"	4972
+"Sri Lanka"	1796
+"Sweden"	18042
+"Switzerland"	5434
+"Taiwan"	4313
+"United Kingdom"	524500
+"United States"	679375
