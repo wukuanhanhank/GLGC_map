@@ -34,6 +34,7 @@ library(ggrepel)
 library(rgeos)
 library(ggplot2)
 library(sf)
+sf::sf_use_s2(F)
 library(rnaturalearth)
 library(rnaturalearthdata)
 library(ggspatial)
@@ -88,7 +89,7 @@ ggplot(data = world) +
   coord_sf(xlim=c(-180.00, 180.00), ylim=c(-60.00, 90.00), expand=F) +
   # add title to the figure
   ggtitle(fig_title) +
-  theme(plot.title=element_text(color="black", size=20, face="bold", hjust=0.5, family="Georgia"), 
+  theme(plot.title=element_text(color="black", size=20, face="bold", hjust=0.5), 
         # ocean color
         panel.background=element_rect(fill=ocean_col),
         # no grid on the map
